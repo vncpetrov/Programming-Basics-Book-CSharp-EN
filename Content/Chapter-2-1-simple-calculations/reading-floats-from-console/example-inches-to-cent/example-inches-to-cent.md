@@ -12,7 +12,7 @@ Console.WriteLine(centimeters);
 
 Let us start the program and make sure that when a value in inches is entered, we receive a correct answer in centimeters:
 
-![](assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
+![](/assets/chapter-2-images/00.Inches-to-centimeters-01.jpg)
 
 #### Testing in the Judge System
 
