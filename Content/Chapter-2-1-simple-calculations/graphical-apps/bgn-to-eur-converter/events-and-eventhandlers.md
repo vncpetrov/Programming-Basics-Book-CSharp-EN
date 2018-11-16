@@ -13,4 +13,4 @@ The event **`Form.Load`** is executed when the program is started, before the wi
 
 To **catch an event** we use the events icon (Events) in the **Properties**  window in Visual Studio:
 
-![](/assets/chapter-2-images/13.Currency-converter-01.png)
+![](/assets/chapter-2-images/13.Currency-converter-08.png)
